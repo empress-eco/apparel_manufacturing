@@ -1,6 +1,6 @@
 <div align="center">
-![Apparelo Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
-</div>
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 
 Welcome to **Apparelo**, your go-to tool for efficient and dynamic management in the garment industry. 
 
@@ -9,6 +9,8 @@ Welcome to **Apparelo**, your go-to tool for efficient and dynamic management in
 <a href="https://github.com/empress-eco/apparel_manufacturing/issues">Report Bug</a>
 ·
 <a href="https://github.com/empress-eco/apparel_manufacturing/issues/new">Request Feature</a>
+</div>
+
 
 ## About Apparelo
 
